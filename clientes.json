@@ -1,774 +1,513 @@
 {
     "CLIENTES RIO GRANDE DO SUL": [
         {
-            "Razão Social": "SERGIO MAURO LEIVICOFF EIRELI",
-            "Fantasia": "TELESOM PRO-AUDIO",
+            "Nome da Loja": "TELESOM PRO-AUDIO",
             "Telefone": "(51) 3221-0036",
-            "Endereço": "R CEL VICENTE,420",
-            "Bairro": "CENTRO",
+            "Endereço": "R CEL VICENTE,420, CENTRO",
             "CEP": "90030-040",
-            "Cidade": "PORTO ALEGRE - RS",
-            "E-mail": "telesomproaudio@hotmail.com",
-            "CNPJ": "93.428.654/0003-63"
+            "Cidade": "PORTO ALEGRE - RS"
         },
         {
-            "Razão Social": "RAFAEL DA SILVA PEIXOTO",
-            "Fantasia": "MEGA MUSIC STORE",
+            "Nome da Loja": "MEGA MUSIC STORE",
             "Telefone": "(51) 98641-8259",
-            "Endereço": "R MANOEL M DO NASCIMENTO,269",
-            "Bairro": "SÃO MIGUEL",
+            "Endereço": "R MANOEL M DO NASCIMENTO,269, SÃO MIGUEL",
             "CEP": "93025-530",
-            "Cidade": "SÃO LEOPOLDO",
-            "E-mail": "compras@classicmusicstore.com",
-            "CNPJ": "29.106.735/0001-86"
+            "Cidade": "SÃO LEOPOLDO"
         }
     ],
     "CLIENTES REGIÃO DE CAMPINAS (INTERIOR DE SÃO PAULO)": [
         {
-            "RAZÃO SOCIAL": "ÉDSON DA SILVEIRA GERVAZIO SOM E ACESSÓRIO",
-            "FANTASIA": "E.N SOM E ACESSORIOS",
-            "TELEFONE": "(16) 3625-7028 / (16) 3964-6798 / (16) 3285-1828",
-            "ENDEREÇO": "R- MARIANA JUNQUEIRA,195",
+            "Nome da Loja": null,
+            "Telefone": "(16) 3625-7028 / (16) 3964-6798 / (16) 3285-1828",
+            "Endereço": "None,",
             "CEP": "14.015-010",
-            "CIDADE": "RIBEIRÃO PRETO",
-            "E-MAIL": "egervazio@uol.com.br",
-            "CNPJ": "07.833.226/0001-12"
+            "Cidade": "RIBEIRÃO PRETO"
         },
         {
-            "RAZÃO SOCIAL": "ANDERSON AFONSO DOS SANTOS – ME",
-            "FANTASIA": "VS SOM",
-            "TELEFONE": "(17)3324-5623",
-            "ENDEREÇO": "AV 7, 1137",
-            "BAIRRO": "FORTALEZA",
+            "Nome da Loja": null,
+            "Telefone": "(17)3324-5623",
+            "Endereço": "None,",
             "CEP": "14780-240",
-            "CIDADE": "BARRETOS SP",
-            "E-MAIL": "vssomepecas@hotmail.com",
-            "CNPJ": "10.775.621/0001-09"
+            "Cidade": "BARRETOS SP"
         }
     ],
     "CLIENTES REGIÃO PRES PRUDENTE (INTERIOR DE SÃO PAULO)": [
         {
-            "RAZÃO SOCIAL": "ENTER LIGHT DO BRASIL COM. ELETRONICO",
-            "FANTASIA": "ENTER LIGHT",
-            "TELEFONE": "(18) 3222-1428",
-            "ENDEREÇO": "AV JOAQUIM CONSTANTINO, 3980",
-            "BAIRRO": "JARDIM SAO LUIS",
+            "Nome da Loja": null,
+            "Telefone": "(18) 3222-1428",
+            "Endereço": "None,",
             "CEP": "19061-000",
-            "CIDADE": "PRESIDENTE PRUDENTE - SP",
-            "E-MAIL": "renato@enterlight.com.br",
-            "CNPJ": "17.777.802/0001-05"
+            "Cidade": "PRESIDENTE PRUDENTE - SP"
         },
         {
-            "RAZÃO SOCIAL": "PLUGADOS NA MÚSICA COMERCIO DE INSTRUMENTOS",
-            "FANTASIA": "PLUGADOS NA MÚSICA",
-            "TELEFONE": "(18) 99632-1217",
-            "ENDEREÇO": "R ANITA GARIBALDI, 44",
-            "BAIRRO": "CENTRO",
+            "Nome da Loja": null,
+            "Telefone": "(18) 99632-1217",
+            "Endereço": "None,",
             "CEP": "16010-280",
-            "CIDADE": "ARAÇATUBA - SP",
-            "E-MAIL": "plugadosata@gmail.com",
-            "CNPJ": "34.187.894/0001-92"
+            "Cidade": "ARAÇATUBA - SP"
         }
     ],
     "CLIENTES REGIÃO DO PARANÁ": [
         {
-            "RAZÃO SOCIAL": "COLOMERA E RODRIGUES LTDA",
-            "FANTASIA": "COLOMERA",
-            "TELEFONE": "(43) 99919-2441",
-            "ENDEREÇO": "RUA PREFEITO JOSE DE ASSIS, 113",
-            "BAIRRO": "CENTRO",
+            "Nome da Loja": null,
+            "Telefone": "(43) 99919-2441",
+            "Endereço": "None,",
             "CEP": "88385-000",
-            "CIDADE": "PENHA",
-            "E-MAIL": "compras@colomeras.com.br",
-            "CNPJ": "00.179.569/0004-09"
+            "Cidade": "PENHA"
         },
         {
-            "RAZÃO SOCIAL": "OTTENIO RODRIGUES ELETRO ELETRONICOS",
-            "FANTASIA": "OTTENIO RODRIGUES ELETRON",
-            "TELEFONE": "(43) 99104-1415",
-            "ENDEREÇO": "ROD CARLOS J STRASS, 585",
-            "BAIRRO": "PARQUE I. ALICANTE",
+            "Nome da Loja": null,
+            "Telefone": "(43) 99104-1415",
+            "Endereço": "None,",
             "CEP": "86087-350",
-            "CIDADE": "LONDRINA",
-            "E-MAIL": "oteniofilial@hotmail.com",
-            "CNPJ": "35.128.410/0001-05"
+            "Cidade": "LONDRINA"
         }
     ],
     "CLIENTES REGIÃO DE SANTA CATARINA": [
         {
-            "RAZÃO SOCIAL": "A MÚSICAL DE ORLEANS LTDA",
-            "FANTASIA": "A MÚSICAL",
-            "TELEFONE": "(48) 3466-0750",
-            "ENDEREÇO": "RUA JOSE ANTUNES MATOS, 10",
-            "BAIRRO": "CENTRO",
+            "Nome da Loja": null,
+            "Telefone": "(48) 3466-0750",
+            "Endereço": "None,",
             "CEP": "88870-000",
-            "CIDADE": "ORLEANS",
-            "E-MAIL": "diegomoraes88@gmail.com",
-            "CNPJ": "83.730.390/0001-82"
+            "Cidade": "ORLEANS"
         },
         {
-            "RAZÃO SOCIAL": "WE SOL MAIOR COM. E MAN. DE SOM LTDA",
-            "FANTASIA": "SOL MAIOR",
-            "TELEFONE": "(47) 3326-1798",
-            "ENDEREÇO": "R SETE DE SETEMBRO, 2358",
-            "BAIRRO": "CENTRO",
+            "Nome da Loja": null,
+            "Telefone": "(47) 3326-1798",
+            "Endereço": "None,",
             "CEP": "89012-400",
-            "CIDADE": "BLUMENAU",
-            "E-MAIL": "solmaior.som@terra.com.br",
-            "CNPJ": "05.434.887/0001-40"
+            "Cidade": "BLUMENAU"
         }
     ],
     "CLIENTES REGIÃO MATO GROSSO DO SUL": [
         {
-            "RAZÃO SOCIAL": "ANATH COMERCIAL LTDA",
-            "FANTASIA": "BETEL CENTER",
-            "TELEFONE": "(67) 3324-0150",
-            "ENDEREÇO": "AV CALOGERAS, 2099",
-            "BAIRRO": "CENTRO",
+            "Nome da Loja": null,
+            "Telefone": "(67) 3324-0150",
+            "Endereço": "None,",
             "CEP": "79002-001",
-            "CIDADE": "CAMPO GRANDE",
-            "E-MAIL": "adilson@betelcenter.com.br",
-            "CNPJ": "12.319.896/0001-55"
+            "Cidade": "CAMPO GRANDE"
         },
         {
-            "RAZÃO SOCIAL": "A PRIMOROSA INSTRUMENTOS MUSICAIS EIRELI",
-            "FANTASIA": "A PRIMOROSA CG",
-            "TELEFONE": "(67) 3325-1922",
-            "ENDEREÇO": "R DOS BARBOSAS, 490",
-            "BAIRRO": "AMABAI",
+            "Nome da Loja": null,
+            "Telefone": "(67) 3325-1922",
+            "Endereço": "None,",
             "CEP": "79005-430",
-            "CIDADE": "CAMPO GRANDE",
-            "E-MAIL": "aprimorosa@terra.com.br",
-            "CNPJ": "10.638.725/0001-63"
+            "Cidade": "CAMPO GRANDE"
         }
     ],
     "CLIENTES REGIÃO MATO GROSSO": [
         {
-            "RAZÃO SOCIAL": "JAKSON RODRIGUES MACHADO LTDA",
-            "FANTASIA": "A MUSICAL",
-            "TELEFONE": "(66) 3401-6213",
-            "ENDEREÇO": "RUA MATO GROSSO",
-            "BAIRRO": "CENTRO",
+            "Nome da Loja": null,
+            "Telefone": "(66) 3401-6213",
+            "Endereço": "None,",
             "CEP": "78600-023",
-            "CIDADE": "BARRA DO GARÇA",
-            "E-MAIL": "amusical2000@yahoo.com.br",
-            "CNPJ": "03.015.727/0001-30"
+            "Cidade": "BARRA DO GARÇA"
         },
         {
-            "RAZÃO SOCIAL": "METAL ELETRO LTDA",
-            "FANTASIA": "METAL GRADIENTE",
-            "TELEFONE": "(65) 3322-9230",
-            "ENDEREÇO": "AV: TENENTE-CORONEL DUARTE, 285",
-            "BAIRRO": "BANDEIRANTES",
+            "Nome da Loja": null,
+            "Telefone": "(65) 3322-9230",
+            "Endereço": "None,",
             "CEP": "78015-500",
-            "CIDADE": "CUIABA",
-            "E-MAIL": "compras.metalgradiente@gmail.com",
-            "CNPJ": "00.231.656/0001-15"
+            "Cidade": "CUIABA"
         }
     ],
     "CLIENTES REGIÃO RONDONIA": [
         {
-            "RAZÃO SOCIAL": "PADRAO 19 COM. VAR. DE INST. MUS. LTDA",
-            "FANTASIA": "PADRAO 19 COMERCIO",
-            "TELEFONE": "(69) 99397-1715",
-            "ENDEREÇO": "AVENIDA PRESIDENTE NASSER, 360",
-            "BAIRRO": "JARDIM AMÉRICA",
+            "Nome da Loja": null,
+            "Telefone": "(69) 99397-1715",
+            "Endereço": "None,",
             "CEP": "76980-764",
-            "CIDADE": "VILHENA",
-            "E-MAIL": "padrao19vilhena@gmail.com",
-            "CNPJ": "35.234.022/0001-09"
+            "Cidade": "VILHENA"
         },
         {
-            "RAZÃO SOCIAL": "FERREIRA E PASSARELLI INST. MUS. LTDA ME",
-            "FANTASIA": "INFOMUSIC",
-            "TELEFONE": "(69) 3536-1559",
-            "ENDEREÇO": "AV JAMARI, 3278 SETOR 1",
-            "BAIRRO": "AREAS E. 01",
+            "Nome da Loja": null,
+            "Telefone": "(69) 3536-1559",
+            "Endereço": "None,",
             "CEP": "76870-018",
-            "CIDADE": "ARIQUEMES",
-            "E-MAIL": "infomusiccompras@gmail.com",
-            "CNPJ": "28.374.729/0002-28"
+            "Cidade": "ARIQUEMES"
         }
     ],
-    "CLIENTES REGIÃO PARANA": [
+    "Lojas REGIÃO PARANA": [
         {
-            "Razão Social": "LOJA ROSARIO BRAGANCA LTDA",
-            "Fantasia": "LOJA ROSARIO",
+            "Nome da Loja": "LOJA ROSARIO",
             "Telefone": "(91) 98111-5399",
-            "Endereço": "AV NAZARENO FERREIRA, 620",
-            "Bairro": "CENTRO",
+            "Endereço": "AV NAZARENO FERREIRA, 620, CENTRO",
             "CEP": "68600-000",
-            "Cidade": "BRAGANÇA",
-            "Email": "lojarosariobraganca@gmail.com",
-            "CNPJ": "48.448.687/0001-59"
+            "Cidade": "BRAGANÇA"
         },
         {
-            "Razão Social": "KSB ELETRONICA LTDA",
-            "Fantasia": "TIP ELETRONICA",
+            "Nome da Loja": "TIP ELETRONICA",
             "Telefone": "(91) 3212-4341",
-            "Endereço": "R TREZE DE MAIO, 386",
-            "Bairro": "CAMPINA",
+            "Endereço": "R TREZE DE MAIO, 386, CAMPINA",
             "CEP": "66013-080",
-            "Cidade": "BALEM",
-            "Email": "andre@􀆟peletronica.com.br",
-            "CNPJ": "05.452.754/0001-04"
+            "Cidade": "BALEM"
         }
     ],
-    "Clientes Região Goiânia": [
+    "Lojas Região Goiânia": [
         {
-            "Razão Social": "BORGES & CARRER LTDA",
-            "Fantasia": "MERCADÃO DA ELETRONICA",
+            "Nome da Loja": "MERCADÃO DA ELETRONICA",
             "Telefone": "(64) 3621-2700",
-            "Endereço": "AV PRES VARGAS, 1200",
-            "Bairro": "SETOR CENTRAL",
+            "Endereço": "AV PRES VARGAS, 1200, SETOR CENTRAL",
             "CEP": "75901-002",
-            "Cidade": "RIO VERDE",
-            "E-mail": "alemercadao@gmail.com",
-            "CNPJ": "03.404.245/0001-72"
+            "Cidade": "RIO VERDE"
         },
         {
-            "Razão Social": "FUJIMUSIC COM CDS E INST MUSICAIS LTDA",
-            "Fantasia": "FUJIMUSIC",
+            "Nome da Loja": "FUJIMUSIC",
             "Telefone": "(62) 3588-5608",
-            "Endereço": "AV DA IGUALDADE, QUADRA, 119 04 SALA 02",
-            "Bairro": "SETOR GARAVELO",
+            "Endereço": "AV DA IGUALDADE, QUADRA, 119 04 SALA 02, SETOR GARAVELO",
             "CEP": "74930-530",
-            "Cidade": "APARECIDA DE GOIANIA",
-            "E-mail": "fujimusic@hotmail.com",
-            "CNPJ": "05.314.292/0001-50"
+            "Cidade": "APARECIDA DE GOIANIA"
         }
     ],
-    "Clientes Região Distrito Federal": [
+    "Lojas Região Distrito Federal": [
         {
-            "Razão Social": "KATIA DOS SANTOS SILVA INST. MUSICAIS",
-            "Fantasia": "VITRINI DO AUDIO",
+            "Nome da Loja": "VITRINI DO AUDIO",
             "Telefone": "(61) 3022-2822",
-            "Endereço": "SIA TRECHO 5 EDIFÍCIO VIA IMPORT LOJA 120",
-            "Bairro": "ZONA INDUSTRIAL",
+            "Endereço": "SIA TRECHO 5 EDIFÍCIO VIA IMPORT LOJA 120, ZONA INDUSTRIAL",
             "CEP": "71205-050",
-            "Cidade": "GUARA",
-            "E-mail": "vitrinedoaudio@hotmail.com",
-            "CNPJ": "25.111.619/0001-02"
+            "Cidade": "GUARA"
         },
         {
-            "Razão Social": "CENTRO ELETRICO GAMA EIRELI",
-            "Fantasia": "ELETRO GAMA",
+            "Nome da Loja": "ELETRO GAMA",
             "Telefone": "(61) 3022-4017",
-            "Endereço": "Q QUADRA 13, 09",
-            "Bairro": "SETOR CENTRAL",
+            "Endereço": "Q QUADRA 13, 09, SETOR CENTRAL",
             "CEP": "72405-130",
-            "Cidade": "GAMA",
-            "E-mail": "gamaeletron13@outlook.com",
-            "CNPJ": "24.639.272/0001-02"
+            "Cidade": "GAMA"
         }
     ],
-    "Clientes Região Interior Bahia": [
+    "Lojas Região Interior Bahia": [
         {
-            "Razão Social": "ESS SONORIZACAO E EMPRENDIMENTOS EIRELI",
-            "Fantasia": "MIDIA SOM A LOJA DO POVO",
+            "Nome da Loja": "MIDIA SOM A LOJA DO POVO",
             "Telefone": "(75) 3261-1944",
-            "Endereço": "AV DEP MANOEL NOVAES, 549",
-            "Bairro": "CENTRO",
+            "Endereço": "AV DEP MANOEL NOVAES, 549, CENTRO",
             "CEP": "48700-000",
-            "Cidade": "SERRINHA - BA",
-            "E-mail": "midiasomalojadopovo@gmail.com",
-            "CNPJ": "06.289.385/0001-35"
+            "Cidade": "SERRINHA - BA"
         },
         {
-            "Razão Social": "SILVANA TEODORO RAMOS - ME",
-            "Fantasia": "S/N",
+            "Nome da Loja": "S/N",
             "Telefone": "(75) 3641-5615",
-            "Endereço": "TRAVESSA SILVA JARDIM, 20",
-            "Bairro": "CENTRO",
+            "Endereço": "TRAVESSA SILVA JARDIM, 20, CENTRO",
             "CEP": "45400-000",
-            "Cidade": "VALENÇA",
-            "E-mail": "tudoemeletronica@live.com",
-            "CNPJ": "13.845.232/0001-92"
+            "Cidade": "VALENÇA"
         },
         {
-            "Razão Social": "R. DA ROCHA CAMPOS - ME",
-            "Fantasia": "ELETRONICA BRILHA SOM",
+            "Nome da Loja": "ELETRONICA BRILHA SOM",
             "Telefone": "(75) 3626-8708",
-            "Endereço": "R JOSE JOAQUIM SEABRA,175",
-            "Bairro": "CENTRO",
+            "Endereço": "R JOSE JOAQUIM SEABRA,175, CENTRO",
             "CEP": "44002-000",
-            "Cidade": "FEIRA DE SANTANA",
-            "E-mail": "canutobrilhasom@gmail.com",
-            "CNPJ": "13.529.807/0001-68"
+            "Cidade": "FEIRA DE SANTANA"
         }
     ],
-    "Cliente Região Salvador Capital": [
+    "Lojas Região Salvador Capital": [
         {
-            "Razão Social": "ELIVALDO COSTA CERQUEIRA",
-            "Fantasia": "LD ELETRONICA",
+            "Nome da Loja": "LD ELETRONICA",
             "Telefone": "(71) 98861-7129",
-            "Endereço": "LD DA PRAÇA, 04",
-            "Bairro": "CENTRO HISTORICO",
+            "Endereço": "LD DA PRAÇA, 04, CENTRO HISTORICO",
             "CEP": "40026-058",
-            "Cidade": "SALVADOR",
-            "Email": "costaelivaldo009@gmail.com",
-            "CNPJ": "54.744.334/0001-07"
+            "Cidade": "SALVADOR"
         },
         {
-            "Razão Social": "JML COMERCIO DE AUDIO E ILUMINACAO EIREL",
-            "Fantasia": "JR ELETRONICA",
+            "Nome da Loja": "JR ELETRONICA",
             "Telefone": "(71) 3321-7252",
-            "Endereço": "R JOSE GONCALVES / EDF CHURCHILL LOJA C, 45",
-            "Bairro": "CENTRO",
+            "Endereço": "R JOSE GONCALVES / EDF CHURCHILL LOJA C, 45, CENTRO",
             "CEP": "40026-068",
-            "Cidade": "SALVADOR",
-            "Email": "jreletronica2012@hotmail.com",
-            "CNPJ": "15.630.735/0001-76"
+            "Cidade": "SALVADOR"
         }
     ],
-    "Região Espírito Santo": [
+    "Lojas Espírito Santo": [
         {
-            "Razão Social": "NOVA ALIANCA COMERCIO ELETRONICO LTDA",
-            "Fantasia": "LOJA NOVA ALIANCA",
+            "Nome da Loja": "LOJA NOVA ALIANCA",
             "Telefone": "(32) 98827-9402",
-            "Endereço": "RUA OSWALDO CRUZ, 27",
-            "Bairro": "BARRA",
+            "Endereço": "RUA OSWALDO CRUZ, 27, BARRA",
             "CEP": "36884-020",
-            "Cidade": "MURIAÉ",
-            "Email": "lojaalianca83@gmail.com",
-            "CNPJ": "33.011.598/0001-73"
+            "Cidade": "MURIAÉ"
         },
         {
-            "Razão Social": "ANDERSON DOS SANTOS COUTINHO",
-            "Fantasia": "S/N",
+            "Nome da Loja": "S/N",
             "Telefone": "(27) 99697-6738",
-            "Endereço": "R JOSE B DA SILVA, 93",
-            "Bairro": "CAMPO GRANDE",
+            "Endereço": "R JOSE B DA SILVA, 93, CAMPO GRANDE",
             "CEP": "29146-120",
-            "Cidade": "CARIACICA",
-            "Email": "teclas1000@hotmail.com",
-            "CNPJ": "30.072.035/0001-05"
+            "Cidade": "CARIACICA"
         }
     ],
-    "Clientes Região Maranhão": [
+    "Lojas Região Maranhão": [
         {
-            "Razão Social": "FERNANDO AUGUSTO CARNEIRO LIRA - ME",
-            "Fantasia": "DIGITAL SOM",
+            "Nome da Loja": "DIGITAL SOM",
             "Telefone": "(85) 3226-3070",
-            "Endereço": "R PEDRO PEREIRA, 593",
-            "Bairro": "CENTRO",
+            "Endereço": "R PEDRO PEREIRA, 593, CENTRO",
             "CEP": "60035-000",
-            "Cidade": "FORTALEZA",
-            "Email": "digitalsom_123@hotmail.com",
-            "CNPJ": "69.354.694/0001-61"
+            "Cidade": "FORTALEZA"
         },
         {
-            "Razão Social": "GIRLANA MEDEIROS COSTA TORRES - ME",
-            "Fantasia": "FENIX ELETRONICA",
+            "Nome da Loja": "FENIX ELETRONICA",
             "Telefone": "(85) 3371-2802",
-            "Endereço": "R JOAO DE ALENCAR, 45",
-            "Bairro": "CENTRO",
+            "Endereço": "R JOAO DE ALENCAR, 45, CENTRO",
             "CEP": "61900-150",
-            "Cidade": "MARACANAU",
-            "Email": "girlanamedeiros@hotmail.com",
-            "CNPJ": "08.978.825/0001-97"
+            "Cidade": "MARACANAU"
         },
         {
-            "Razão Social": "ELETRONICA CENTRAL MUSIC EIRELI ME",
-            "Fantasia": "PUTIU CENTRAL MUSIC",
+            "Nome da Loja": "PUTIU CENTRAL MUSIC",
             "Telefone": "(85) 3023-5305",
-            "Endereço": "R PEDRO PEREIRA, 614",
-            "Bairro": "CENTRO",
+            "Endereço": "R PEDRO PEREIRA, 614, CENTRO",
             "CEP": "60035-000",
-            "Cidade": "FORTALEZA",
-            "Email": [
-                "centralmusic@outlook.com.br",
-                "eletronicacentral.real@hotmail.com"
-            ],
-            "CNPJ": "60035-000"
+            "Cidade": "FORTALEZA"
         }
     ],
-    "Cliente Região Pernambuco": [
+    "Lojas Região Pernambuco": [
         {
-            "Razão Social": "VANUZA DIAS ARRUDA OLIVEIRA - ME",
-            "Fantasia": "S/N",
+            "Nome da Loja": "S/N",
             "Telefone": "(81) 3722-2524",
-            "Endereço": "R JOAO CONDE, 62",
-            "Bairro": "NOSSA S. DAS DORES",
+            "Endereço": "R JOAO CONDE, 62, NOSSA S. DAS DORES",
             "CEP": "55004-220",
-            "Cidade": "CARUARU",
-            "Email": "eletronicademetrius@hotmail.com",
-            "CNPJ": "18.940.877/0001-28"
+            "Cidade": "CARUARU"
         },
         {
-            "Razão Social": "MIX MUSIC LTDA - EPP",
-            "Fantasia": "MIX MUSIC",
+            "Nome da Loja": "MIX MUSIC",
             "Telefone": "(81) 3224-3925",
-            "Endereço": "R DA CONCORDIA, 289",
-            "Bairro": "SÃO JOSE",
+            "Endereço": "R DA CONCORDIA, 289, SÃO JOSE",
             "CEP": "50020-050",
-            "Cidade": "RECIFE",
-            "Email": [
-                "financeiro@mixmusicstore.com.br",
-                "lojamixassistencia@hotmail.com",
-                "renan@casadostransformadores.com.br"
-            ],
-            "CNPJ": "10.526.700/0001-78"
+            "Cidade": "RECIFE"
         }
     ],
-    "Região Interior de São Paulo": [
+    "Lojas Região Interior de São Paulo": [
         {
-            "Razão Social": "M.F. PASSARINHO ARTIGOS ELETRONICOS",
-            "Fantasia": "PIU SHOP",
+            "Nome da Loja": "PIU SHOP",
             "Telefone": [
                 "(14) 3737-0919",
                 "(14) 98129-6065"
             ],
-            "Endereço": "R: ANTENOR LARA CAMPOS, 175",
-            "Bairro": "CASCATA",
+            "Endereço": "R: ANTENOR LARA CAMPOS, 175, CASCATA",
             "CEP": "17400-136",
-            "Cidade": "GARÇA - SP",
-            "Email": "comercial@piushop.com.br",
-            "CNPJ": "13.206.514/0001-40"
+            "Cidade": "GARÇA - SP"
         }
     ],
-    "Clientes Região de Campinas (Interior de São Paulo)": [
+    "Lojas Região de Campinas (Interior de São Paulo)": [
         {
-            "Razão Social": "ÉDSON DA SILVEIRA GERVAZIO SOM E ACESSÓRIO",
-            "Fantasia": "E.N SOM E ACESSORIOS",
+            "Nome da Loja": "E.N SOM E ACESSORIOS",
             "Telefone": "(16) 3625-7028 / (16) 3964-6798 / (16) 3285-1828",
-            "Endereço": "R- MARIANA JUNQUEIRA,195",
+            "Endereço": "R- MARIANA JUNQUEIRA,195,",
             "CEP": "14.015-010",
-            "Cidade": "RIBEIRÃO PRETO",
-            "E-mail": "egervazio@uol.com.br",
-            "CNPJ": "07.833.226/0001-12"
+            "Cidade": "RIBEIRÃO PRETO"
         },
         {
-            "Razão Social": "ANDERSON AFONSO DOS SANTOS – ME",
-            "Fantasia": "VS SOM",
+            "Nome da Loja": "VS SOM",
             "Telefone": "(17)3324-5623",
-            "Endereço": "AV 7, 1137",
-            "Bairro": "FORTALEZA",
+            "Endereço": "AV 7, 1137, FORTALEZA",
             "CEP": "14780-240",
-            "Cidade": "BARRETOS SP",
-            "E-mail": "vssomepecas@hotmail.com",
-            "CNPJ": "10.775.621/0001-09"
+            "Cidade": "BARRETOS SP"
         }
     ],
-    "Clientes Região Presidente Prudente (Interior de São Paulo)": [
+    "Lojas Região Presidente Prudente (Interior de São Paulo)": [
         {
-            "Razão Social": "ENTER LIGHT DO BRASIL COM. ELETRONICO",
-            "Fantasia": "ENTER LIGHT",
+            "Nome da Loja": "ENTER LIGHT",
             "Telefone": "(18) 3222-1428",
-            "Endereço": "AV JOAQUIM CONSTANTINO, 3980",
-            "Bairro": "JARDIM SAO LUIS",
+            "Endereço": "AV JOAQUIM CONSTANTINO, 3980, JARDIM SAO LUIS",
             "CEP": "19061-000",
-            "Cidade": "PRESIDENTE PRUDENTE - SP",
-            "E-mail": "renato@enterlight.com.br",
-            "CNPJ": "17.777.802/0001-05"
+            "Cidade": "PRESIDENTE PRUDENTE - SP"
         },
         {
-            "Razão Social": "PLUGADOS NA MÚSICA COMERCIO DE INSTRUMENTOS",
-            "Fantasia": "PLUGADOS NA MÚSICA",
+            "Nome da Loja": "PLUGADOS NA MÚSICA",
             "Telefone": "(18) 99632-1217",
-            "Endereço": "R ANITA GARIBALDI, 44",
-            "Bairro": "CENTRO",
+            "Endereço": "R ANITA GARIBALDI, 44, CENTRO",
             "CEP": "16010-280",
-            "Cidade": "ARAÇATUBA -SP",
-            "E-mail": "plugadosata@gmail.com",
-            "CNPJ": "34.187.894/0001-92"
+            "Cidade": "ARAÇATUBA -SP"
         }
     ],
-    "Clientes Região do Paraná": [
+    "Lojas Região do Paraná": [
         {
-            "Razão Social": "COLOMERA E RODRIGUES LTDA",
-            "Fantasia": "COLOMERA",
+            "Nome da Loja": "COLOMERA",
             "Telefone": "(43) 99919-2441",
-            "Endereço": "RUA PREFEITO JOSE DE ASSIS, 113",
-            "Bairro": "CENTRO",
+            "Endereço": "RUA PREFEITO JOSE DE ASSIS, 113, CENTRO",
             "CEP": "88385-000",
-            "Cidade": "PENHA",
-            "E-mail": "compras@colomeras.com.br",
-            "CNPJ": "00.179.569/0004-09"
+            "Cidade": "PENHA"
         },
         {
-            "Razão Social": "OTTENIO RODRIGUES ELETRO ELETRONICOS",
-            "Fantasia": "OTTENIO RODRIGUES ELETRON",
+            "Nome da Loja": "OTTENIO RODRIGUES ELETRON",
             "Telefone": "(43) 99104-1415",
-            "Endereço": "ROD CARLOS J STRASS, 585",
-            "Bairro": "PARQUE I. ALICANTE",
+            "Endereço": "ROD CARLOS J STRASS, 585, PARQUE I. ALICANTE",
             "CEP": "86087-350",
-            "Cidade": "LONDRINA",
-            "E-mail": "oteniomusic@gmail.com",
-            "CNPJ": "35.128.410/0001-05"
+            "Cidade": "LONDRINA"
         }
     ],
-    "Clientes Região Santa Catarina": [
+    "Lojas Região Santa Catarina": [
         {
-            "Razão Social": "A MÚSICAL DE ORLEANS LTDA",
-            "Fantasia": "A MÚSICAL",
+            "Nome da Loja": "A MÚSICAL",
             "Telefone": "(48) 3466-0750",
-            "Endereço": "RUA JOSE ANTUNES MATOS, 10",
-            "Bairro": "CENTRO",
+            "Endereço": "RUA JOSE ANTUNES MATOS, 10, CENTRO",
             "CEP": "88870-000",
-            "Cidade": "ORLEANS",
-            "E-mail": "diegomoraes88@gmail.com",
-            "CNPJ": "83.730.390/0001-82"
+            "Cidade": "ORLEANS"
         },
         {
-            "Razão Social": "WE SOL MAIOR COM. E MAN. DE SOM LTDA",
-            "Fantasia": "SOL MAIOR",
+            "Nome da Loja": "SOL MAIOR",
             "Telefone": "(47) 3326-1798",
-            "Endereço": "R SETE DE SETEMBRO, 2358",
-            "Bairro": "CENTRO",
+            "Endereço": "R SETE DE SETEMBRO, 2358, CENTRO",
             "CEP": "89012-400",
-            "Cidade": "BLUMENAU",
-            "E-mail": "solmaior.som@terra.com.br",
-            "CNPJ": "05.434.887/0001-40"
+            "Cidade": "BLUMENAU"
         }
     ],
-    "Clientes Região Mato Grosso do Sul": [
+    "Lojas Região Mato Grosso do Sul": [
         {
-            "Razão Social": "ANATH COMERCIAL LTDA",
-            "Fantasia": "BETEL CENTER",
+            "Nome da Loja": "BETEL CENTER",
             "Telefone": "(67) 3324-0150",
-            "Endereço": "AV CALOGERAS, 2099",
-            "Bairro": "CENTRO",
+            "Endereço": "AV CALOGERAS, 2099, CENTRO",
             "CEP": "79002-001",
-            "Cidade": "CAMPO GRANDE",
-            "E-mail": "adilson@betelcenter.com.br",
-            "CNPJ": "12.319.896/0001-55"
+            "Cidade": "CAMPO GRANDE"
         },
         {
-            "Razão Social": "A PRIMOROSA INSTRUMENTOS MUSICAIS EIRELI",
-            "Fantasia": "A PRIMOROSA CG",
+            "Nome da Loja": "A PRIMOROSA CG",
             "Telefone": "(67) 3325-1922",
-            "Endereço": "R DOS BARBOSAS, 490",
-            "Bairro": "AMABAI",
+            "Endereço": "R DOS BARBOSAS, 490, AMABAI",
             "CEP": "79005-430",
-            "Cidade": "CAMPO GRANDE",
-            "E-mail": "aprimorosa@terra.com.br",
-            "CNPJ": "10.638.725/0001-63"
+            "Cidade": "CAMPO GRANDE"
         }
     ],
-    "Clientes Região Mato Grosso": [
+    "Lojas Região Mato Grosso": [
         {
-            "Razão Social": "JAKSON RODRIGUES MACHADO LTDA",
-            "Fantasia": "A MUSICAL",
+            "Nome da Loja": "A MUSICAL",
             "Telefone": "(66) 3401-6213",
-            "Endereço": "RUA MATO GROSSO",
-            "Bairro": "CENTRO",
+            "Endereço": "RUA MATO GROSSO, CENTRO",
             "CEP": "78600-023",
-            "Cidade": "BARRA DO GARÇA",
-            "E-mail": "amusical2000@yahoo.com.br",
-            "CNPJ": "03.015.727/0001-30"
+            "Cidade": "BARRA DO GARÇA"
         },
         {
-            "Razão Social": "METAL ELETRO LTDA",
-            "Fantasia": "METAL GRADIENTE",
+            "Nome da Loja": "METAL GRADIENTE",
             "Telefone": "(65) 3322-9230",
-            "Endereço": "AV: TENENTE-CORONEL DUARTE, 285",
-            "Bairro": "BANDEIRANTES",
+            "Endereço": "AV: TENENTE-CORONEL DUARTE, 285, BANDEIRANTES",
             "CEP": "78015-500",
-            "Cidade": "CUIABA",
-            "E-mail": "compras.metalgradiente@gmail.com",
-            "CNPJ": "00.231.656/0001-15"
+            "Cidade": "CUIABA"
         }
     ],
-    "Clientes Região Rondônia": [
+    "Lojas Região Rondônia": [
         {
-            "Razão Social": "PADRAO 19 COM. VAR. DE INST. MUS. LTDA",
-            "Fantasia": "PADRAO 19 COMERCIO",
+            "Nome da Loja": "PADRAO 19 COMERCIO",
             "Telefone": "(69) 99397-1715",
-            "Endereço": "AVENIDA PRESIDENTE NASSER, 360",
-            "Bairro": "JARDIM AMÉRICA",
+            "Endereço": "AVENIDA PRESIDENTE NASSER, 360, JARDIM AMÉRICA",
             "CEP": "76820-000",
-            "Cidade": "PORTO VELHO",
-            "E-mail": "padraonineteen@uol.com.br",
-            "CNPJ": "23.757.550/0001-02"
+            "Cidade": "PORTO VELHO"
         },
         {
-            "Razão Social": "ARALAPTO INSTRUMENTOS MUSICAIS LTDA",
-            "Fantasia": "ARALAPTO MUSICAIS",
+            "Nome da Loja": "ARALAPTO MUSICAIS",
             "Telefone": "(69) 99222-8777",
-            "Endereço": "RUA RIO DE JANEIRO, 721",
-            "Bairro": "CENTRO",
+            "Endereço": "RUA RIO DE JANEIRO, 721, CENTRO",
             "CEP": "76801-209",
-            "Cidade": "PORTO VELHO",
-            "E-mail": "aralapto.instruments@outlook.com",
-            "CNPJ": "21.126.895/0001-20"
+            "Cidade": "PORTO VELHO"
         }
     ],
-    "Clientes Região Goiás": [
+    "Lojas Região Goiás": [
         {
-            "Razão Social": "CAMPOS & ALMEIDA LTDA",
-            "Fantasia": "ALMEIDA SOM",
+            "Nome da Loja": "ALMEIDA SOM",
             "Telefone": "(62) 3245-0302",
-            "Endereço": "RUA 17, 475",
-            "Bairro": "SETOR CENTRAL",
+            "Endereço": "RUA 17, 475, SETOR CENTRAL",
             "CEP": "74000-000",
-            "Cidade": "GOIANIA",
-            "E-mail": "camposalmeida@uol.com.br",
-            "CNPJ": "03.440.328/0001-24"
+            "Cidade": "GOIANIA"
         },
         {
-            "Razão Social": "DRUM SHOP COM. LTDA",
-            "Fantasia": "DRUM SHOP",
+            "Nome da Loja": "DRUM SHOP",
             "Telefone": "(62) 3298-2718",
-            "Endereço": "AV DA IGUALDADE, 120",
-            "Bairro": "SETOR NOVO HORIZONTE",
+            "Endereço": "AV DA IGUALDADE, 120, SETOR NOVO HORIZONTE",
             "CEP": "74310-260",
-            "Cidade": "GOIANIA",
-            "E-mail": "drumshop@gmail.com",
-            "CNPJ": "04.597.558/0001-47"
+            "Cidade": "GOIANIA"
         }
     ],
-    "Clientes Região Pará": [
+    "Lojas Região Pará": [
         {
-            "Razão Social": "LOJA ROSARIO BRAGANCA LTDA",
-            "Fantasia": "LOJA ROSARIO",
+            "Nome da Loja": "LOJA ROSARIO",
             "Telefone": "(91) 98111-5399",
-            "Endereço": "AV NAZARENO FERREIRA, 620",
-            "Bairro": "CENTRO",
+            "Endereço": "AV NAZARENO FERREIRA, 620, CENTRO",
             "CEP": "68600-000",
-            "Cidade": "BRAGANÇA",
-            "E-mail": "lojarosariobraganca@gmail.com",
-            "CNPJ": "48.448.687/0001-59"
+            "Cidade": "BRAGANÇA"
         },
         {
-            "Razão Social": "KSB ELETRONICA LTDA",
-            "Fantasia": "TIP ELETRONICA",
+            "Nome da Loja": "TIP ELETRONICA",
             "Telefone": "(91) 3212-4341",
-            "Endereço": "R TREZE DE MAIO, 386",
-            "Bairro": "CAMPINA",
+            "Endereço": "R TREZE DE MAIO, 386, CAMPINA",
             "CEP": "66013-080",
-            "Cidade": "BALEM",
-            "E-mail": "andre@tipeletronica.com.br",
-            "CNPJ": "05.452.754/0001-04"
+            "Cidade": "BALEM"
         }
     ],
-    "Clientes Região Salvador Capital": [
+    "Lojas Região Salvador Capital": [
         {
-            "Razão Social": "ELIVALDO COSTA CERQUEIRA",
-            "Fantasia": "LD ELETRONICA",
+            "Nome da Loja": "LD ELETRONICA",
             "Telefone": "(71) 98861-7129",
-            "Endereço": "LD DA PRAÇA, 04",
-            "Bairro": "CENTRO HISTORICO",
+            "Endereço": "LD DA PRAÇA, 04, CENTRO HISTORICO",
             "CEP": "40026-058",
-            "Cidade": "SALVADOR",
-            "E-mail": "costaelivaldo009@gmail.com",
-            "CNPJ": "54.744.334/0001-07"
+            "Cidade": "SALVADOR"
         },
         {
-            "Razão Social": "JML COMERCIO DE AUDIO E ILUMINACAO EIREL",
-            "Fantasia": "JR ELETRONICA",
+            "Nome da Loja": "JR ELETRONICA",
             "Telefone": "(71) 3321-7252",
-            "Endereço": "R JOSE GONCALVES / EDF CHURCHILL LOJA C, 45",
-            "Bairro": "CENTRO",
+            "Endereço": "R JOSE GONCALVES / EDF CHURCHILL LOJA C, 45, CENTRO",
             "CEP": "40026-068",
-            "Cidade": "SALVADOR",
-            "E-mail": "jreletronica2012@hotmail.com",
-            "CNPJ": "15.630.735/0001-76"
+            "Cidade": "SALVADOR"
         }
     ],
-    "Clientes Região Espírito Santo": [
+    "Lojas Região Espírito Santo": [
         {
-            "Razão Social": "NOVA ALIANCA COMERCIO ELETRONICO LTDA",
-            "Fantasia": "LOJA NOVA ALIANCA",
+            "Nome da Loja": "LOJA NOVA ALIANCA",
             "Telefone": "(32) 98827-9402",
-            "Endereço": "RUA OSWALDO CRUZ, 27",
-            "Bairro": "BARRA",
+            "Endereço": "RUA OSWALDO CRUZ, 27, BARRA",
             "CEP": "36884-020",
-            "Cidade": "MURIAÉ",
-            "E-mail": "lojaalianca@novaaliança.com.br",
-            "CNPJ": "39.447.118/0001-05"
+            "Cidade": "MURIAÉ"
         }
     ],
-    "Clientes Região São Paulo": [
+    "Lojas Região São Paulo": [
         {
-            "Razão Social": "MICRO SHOPPING ELETRONICA LTDA - EPP",
-            "Fantasia": "MICRO SHOPPING",
+            "Nome da Loja": "MICRO SHOPPING",
             "Telefone": "(11) 2443-0068",
-            "Endereço": "R SETE DE SETEMBRO, 277",
-            "Bairro": "CENTRO",
+            "Endereço": "R SETE DE SETEMBRO, 277, CENTRO",
             "CEP": "07011-020",
-            "Cidade": "GUARULHOS",
-            "E-mail": "financeiro@micromusical.com.br / financeiro@micromusical.com.br / comercial@micromusical.com.br",
-            "CNPJ": "54.762.737/0001-70"
+            "Cidade": "GUARULHOS"
         },
         {
-            "Razão Social": "PRO MUSIC & SOUND COM DE EQUIP DE SOM",
-            "Fantasia": "PRO MUSIC",
+            "Nome da Loja": "PRO MUSIC",
             "Telefone": "(11) 2229-6935 / (11)98325-8331",
-            "Endereço": "R PE CELESTINO, 130",
-            "Bairro": "CENTRO",
+            "Endereço": "R PE CELESTINO, 130, CENTRO",
             "CEP": "07013-100",
-            "Cidade": "GUARULHOS",
-            "E-mail": "promusic821@gmail.com",
-            "CNPJ": "03.837.179/0001-24"
+            "Cidade": "GUARULHOS"
         },
         {
-            "Razão Social": "MP STORE COMERCIAL LTDA",
-            "Fantasia": "MP STORE",
+            "Nome da Loja": "MP STORE",
             "Telefone": "(11) 97055-1818",
-            "Endereço": "R MARCELO MULLER, 413",
-            "Bairro": "JARDIM INDEPENDENCIA",
+            "Endereço": "R MARCELO MULLER, 413, JARDIM INDEPENDENCIA",
             "CEP": "03223-060",
-            "Cidade": "SÃO PAULO",
-            "E-mail": "compras1@procomputer.com.br / jnascimento@procomputer.com.br",
-            "CNPJ": "53.621.340/0001-04"
+            "Cidade": "SÃO PAULO"
         },
         {
-            "Razão Social": "MC MUSIC COMERCIO E DISTRIBUICAO LTDA",
-            "Fantasia": "MC MUSIC",
+            "Nome da Loja": "MC MUSIC",
             "Telefone": "(11) 99236-3031",
-            "Endereço": "RUA DOS FLOX, 1419",
-            "Bairro": "PORTAIS (POLVILHO)",
+            "Endereço": "RUA DOS FLOX, 1419, PORTAIS (POLVILHO)",
             "CEP": "07791-030",
-            "Cidade": "CAJAMAR",
-            "E-mail": "vendas.homefamily@gmail.com / financeiro@mcmusicstore.com.br",
-            "CNPJ": "53.899.262/0001-04"
+            "Cidade": "CAJAMAR"
         },
         {
-            "Razão Social": "",
-            "Fantasia": "LIQUIDA MEGA STORE",
+            "Nome da Loja": "LIQUIDA MEGA STORE",
             "Telefone": "(11) 94984-3948 / (11) 99725-0116",
-            "Endereço": "R VICENTE R DA SILVA, 475",
-            "Bairro": "PIRATININGA",
+            "Endereço": "R VICENTE R DA SILVA, 475, PIRATININGA",
             "CEP": "06230-094",
-            "Cidade": "OSASCO",
-            "E-mail": "financeiroliquidamegastore@gmail.com / jonatasfontes@msn.com",
-            "CNPJ": "38.312.979/0001-06"
+            "Cidade": "OSASCO"
         },
         {
-            "Razão Social": "RCK AUDIO LTDA",
-            "Fantasia": "RCK AUDIO & ENTERTAINMENT",
+            "Nome da Loja": "RCK AUDIO & ENTERTAINMENT",
             "Telefone": "(11) 97625-7606",
-            "Endereço": "R SEVERA,466",
-            "Bairro": "VILA M. BAIXA",
+            "Endereço": "R SEVERA,466, VILA M. BAIXA",
             "CEP": "02111-000",
-            "Cidade": "SÃO PAULO",
-            "E-mail": "rckaudio@icloud.com / atendimento@rckaudio.com.br",
-            "CNPJ": "19.731.313/0001-48"
+            "Cidade": "SÃO PAULO"
         }
     ],
-    "Clientes Região Rio de Janeiro": [
+    "Lojas Região Rio de Janeiro": [
         {
-            "Razão Social": "PENIEL COMERCIO DE INST. MUSICAIS LTDA",
-            "Fantasia": "PENIEL INSTRUMENTOS",
+            "Nome da Loja": "PENIEL INSTRUMENTOS",
             "Telefone": "(21) 2671-0208 / (21) 3842-6114 / (21) 3842-3266",
-            "Endereço": "AVENIDA PRESIDENTE VARGAS, 63",
-            "Bairro": "CENTRO",
+            "Endereço": "AVENIDA PRESIDENTE VARGAS, 63, CENTRO",
             "CEP": "25070-330",
-            "Cidade": "DUQUE DE CAXIAS",
-            "E-mail": "penieladm@hotmail.com / penieladm@hotmail.com / elmpeniel@gmail.com",
-            "CNPJ": "12.669.096/0001-64"
+            "Cidade": "DUQUE DE CAXIAS"
         },
         {
-            "Razão Social": "PLEISHOW INSTRUMENTOS MUSICAIS LTDA",
-            "Fantasia": "PLEIDISCO",
+            "Nome da Loja": "PLEIDISCO",
             "Telefone": "(21) 2671-7662",
-            "Endereço": "R MARIANO SENDRA DOS SANTOS, 01 COMPL/ SL 26,27,28,29,30 QD 1 LJ BD 71 E 73",
-            "Bairro": "CENTRO",
+            "Endereço": "R MARIANO SENDRA DOS SANTOS, 01 COMPL/ SL 26,27,28,29,30 QD 1 LJ BD 71 E 73, CENTRO",
             "CEP": "25010-080",
-            "Cidade": "DUQUE DE CAXIAS",
-            "E-mail": "pleiidisco@terra.com.br",
-            "CNPJ": "05.660.464/0001-48"
+            "Cidade": "DUQUE DE CAXIAS"
         }
     ]
 }
