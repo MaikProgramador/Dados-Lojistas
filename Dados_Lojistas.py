@@ -872,9 +872,33 @@ dados = {
     ]
 }
 
+dados_modificados = {}
+
+for key, lojas in dados.items():
+    lojas_modificadas = []
+    
+    for loja in lojas:
+        nova_loja = {
+            "Nome da Loja": loja.get("Fantasia") or loja.get("NOME DA LOJA"),
+            "Telefone": loja.get("Telefone") or loja.get("TELEFONE"),
+            "Endereço": f"{loja.get('Endereço')}, {loja.get('Bairro', '')}".strip(),
+            "CEP": loja.get("CEP"),
+            "Cidade": loja.get("Cidade") or loja.get("CIDADE")
+        }
+        
+        # Adicionar a loja modificada à lista
+        lojas_modificadas.append(nova_loja)
+    
+    # Adicionar as lojas modificadas à nova estrutura de dados
+    dados_modificados[key] = lojas_modificadas
+
 # Salvando os dados em um arquivo JSON
 with open('clientes.json', 'w', encoding='utf-8') as f:
-    json.dump(dados, f, ensure_ascii=False, indent=4)
+    json.dump(dados_modificados, f, ensure_ascii=False, indent=4)
 
 print("Dados salvos em clientes.json")
-print(dados)
+print(dados_modificados)
+
+# Exibindo os dados modificados
+import json
+print(json.dumps(dados_modificados, ensure_ascii=False, indent=4))
