@@ -1,5 +1,5 @@
 {
-    "CLIENTES RIO GRANDE DO SUL": [
+    "LOJAS RIO GRANDE DO SUL": [
         {
             "Nome da Loja": "TELESOM PRO-AUDIO",
             "Telefone": "(51) 3221-0036",
@@ -15,119 +15,119 @@
             "Cidade": "SÃO LEOPOLDO"
         }
     ],
-    "CLIENTES REGIÃO DE CAMPINAS (INTERIOR DE SÃO PAULO)": [
+    "LOJAS REGIÃO DE CAMPINAS (INTERIOR DE SÃO PAULO)": [
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "E.N SOM E ACESSORIOS",
             "Telefone": "(16) 3625-7028 / (16) 3964-6798 / (16) 3285-1828",
-            "Endereço": "None,",
+            "Endereço": "R- MARIANA JUNQUEIRA,195",
             "CEP": "14.015-010",
             "Cidade": "RIBEIRÃO PRETO"
         },
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "VS SOM",
             "Telefone": "(17)3324-5623",
-            "Endereço": "None,",
+            "Endereço": "AV 7, 1137,FORTALEZA",
             "CEP": "14780-240",
             "Cidade": "BARRETOS SP"
         }
     ],
-    "CLIENTES REGIÃO PRES PRUDENTE (INTERIOR DE SÃO PAULO)": [
+    "LOJAS REGIÃO PRES PRUDENTE (INTERIOR DE SÃO PAULO)": [
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "ENTER LIGHT",
             "Telefone": "(18) 3222-1428",
-            "Endereço": "None,",
+            "Endereço": "AV JOAQUIM CONSTANTINO, 3980, JARDIM SAO LUIS",
             "CEP": "19061-000",
             "Cidade": "PRESIDENTE PRUDENTE - SP"
         },
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "PLUGADOS NA MÚSICA",
             "Telefone": "(18) 99632-1217",
-            "Endereço": "None,",
+            "Endereço": "R ANITA GARIBALDI, 44, CENTRO",
             "CEP": "16010-280",
             "Cidade": "ARAÇATUBA - SP"
         }
     ],
-    "CLIENTES REGIÃO DO PARANÁ": [
+    "LOJAS REGIÃO DO PARANÁ": [
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "COLOMERA",
             "Telefone": "(43) 99919-2441",
-            "Endereço": "None,",
+            "Endereço": "RUA PREFEITO JOSE DE ASSIS, 113, CENTRO",
             "CEP": "88385-000",
             "Cidade": "PENHA"
         },
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "OTTENIO RODRIGUES ELETRON",
             "Telefone": "(43) 99104-1415",
-            "Endereço": "None,",
+            "Endereço": "ROD CARLOS J STRASS, 585, PARQUE I. ALICANTE",
             "CEP": "86087-350",
             "Cidade": "LONDRINA"
         }
     ],
-    "CLIENTES REGIÃO DE SANTA CATARINA": [
+    "LOJAS REGIÃO DE SANTA CATARINA": [
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "A MÚSICAL",
             "Telefone": "(48) 3466-0750",
-            "Endereço": "None,",
+            "Endereço": "RUA JOSE ANTUNES MATOS, 10, CENTRO",
             "CEP": "88870-000",
             "Cidade": "ORLEANS"
         },
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "SOL MAIOR",
             "Telefone": "(47) 3326-1798",
-            "Endereço": "None,",
+            "Endereço": "R SETE DE SETEMBRO, 2358, CENTRO",
             "CEP": "89012-400",
             "Cidade": "BLUMENAU"
         }
     ],
-    "CLIENTES REGIÃO MATO GROSSO DO SUL": [
+    "LOJAS REGIÃO MATO GROSSO DO SUL": [
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "BETEL CENTER",
             "Telefone": "(67) 3324-0150",
-            "Endereço": "None,",
+            "Endereço": "AV CALOGERAS, 2099, CENTRO",
             "CEP": "79002-001",
             "Cidade": "CAMPO GRANDE"
         },
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "A PRIMOROSA CG",
             "Telefone": "(67) 3325-1922",
-            "Endereço": "None,",
+            "Endereço": "R DOS BARBOSAS, 490, AMABAI",
             "CEP": "79005-430",
             "Cidade": "CAMPO GRANDE"
         }
     ],
-    "CLIENTES REGIÃO MATO GROSSO": [
+    "LOJAS REGIÃO MATO GROSSO": [
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "A MUSICAL",
             "Telefone": "(66) 3401-6213",
-            "Endereço": "None,",
+            "Endereço": "RUA MATO GROSSO, CENTRO",
             "CEP": "78600-023",
             "Cidade": "BARRA DO GARÇA"
         },
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "METAL GRADIENTE",
             "Telefone": "(65) 3322-9230",
-            "Endereço": "None,",
+            "Endereço": "AV: TENENTE-CORONEL DUARTE, 285, BANDEIRANTES",
             "CEP": "78015-500",
             "Cidade": "CUIABA"
         }
     ],
-    "CLIENTES REGIÃO RONDONIA": [
+    "LOJAS REGIÃO RONDONIA": [
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "PADRAO 19 COMERCIO",
             "Telefone": "(69) 99397-1715",
-            "Endereço": "None,",
+            "Endereço": "AVENIDA PRESIDENTE NASSER, 360, JARDIM AMÉRICA",
             "CEP": "76980-764",
             "Cidade": "VILHENA"
         },
         {
-            "Nome da Loja": null,
+            "Nome da Loja": "INFOMUSIC",
             "Telefone": "(69) 3536-1559",
-            "Endereço": "None,",
+            "Endereço": "AV JAMARI, 3278 SETOR 1, AREAS E. 01",
             "CEP": "76870-018",
             "Cidade": "ARIQUEMES"
         }
     ],
-    "Lojas REGIÃO PARANA": [
+    "LOJAS REGIÃO PARANA": [
         {
             "Nome da Loja": "LOJA ROSARIO",
             "Telefone": "(91) 98111-5399",
